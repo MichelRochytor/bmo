@@ -1,0 +1,291 @@
+CAEL — O Condutor Supremo
+
+Nome / sigla: CAEL
+Curso: Engenharia Elétrica
+Arquétipo: velocidade / pressão ofensiva / eletricidade
+
+1. Visual próprio
+
+Um raposo humanoide atlético, com aparência agressiva e extremamente energética:
+
+pelagem laranja;
+focinho e peito brancos;
+olhos amarelo-elétricos;
+uniforme preto/grafite;
+detalhes laranja e dourados;
+símbolo de raio no peito;
+manoplas condutoras;
+pequenas bobinas e placas metálicas nos braços;
+circuitos luminosos espalhados pelo traje;
+cauda grande participando das animações.
+
+Quando usa habilidades, os pelos e a cauda ficam levemente eriçados pela eletricidade.
+
+2. Cor principal
+
+⚡ Laranja elétrico / amarelo dourado
+
+Complementares:
+
+preto;
+grafite;
+pequenos brilhos brancos.
+3. Arma / elemento característico
+Eletricidade + eletromagnetismo
+
+CAEL não precisa de uma arma tradicional.
+
+As próprias manoplas funcionariam como:
+
+capacitores;
+bobinas;
+eletroímãs;
+condutores.
+
+Ele pode gerar:
+
+⚡ arcos elétricos
+🧲 campos magnéticos
+💥 descargas concentradas
+
+4. Ataque básico — Combo de Corrente
+Etapa 1 — Pulso
+
+Soco rápido carregado eletricamente.
+
+Etapa 2 — Arco
+
+Golpe lateral com a mão deixando um arco elétrico.
+
+Etapa 3 — Descarga
+
+Chute frontal seguido de uma descarga que empurra o adversário.
+
+Visualmente:
+
+soco → arco elétrico → chute explosivo.
+
+5. Três habilidades especiais
+
+Mantendo os nomes que já aparecem no personagem:
+
+⚡ Choque Elétrico
+
+cael_electric_shock
+
+Dispara uma descarga rápida pelas mãos.
+
+Ataque simples, veloz e ótimo para interromper ações.
+
+🔥 Circuito Sobrecarga
+
+cael_overload
+
+CAEL força os próprios sistemas acima do limite.
+
+Durante alguns segundos:
+
+ataques ficam mais rápidos;
+golpes causam eletricidade adicional;
+circuitos do traje brilham intensamente;
+olhos ficam completamente amarelos.
+
+Porém, depois há um pequeno período de recuperação.
+
+🧲 Campo Eletromagnético
+
+cael_electromagnetic_field
+
+CAEL cria um campo circular ao redor do corpo.
+
+Pode:
+
+repelir o inimigo;
+desviar projéteis;
+puxar elementos metálicos;
+interromper aproximações.
+
+Seria sua principal habilidade defensiva/tática.
+
+6. Fatality — CURTO-CIRCUITO
+
+CAEL encosta as duas mãos no adversário.
+
+Uma corrente elétrica começa a percorrer o corpo.
+
+Ele aumenta lentamente a potência:
+
+110 V
+
+220 V
+
+1 kV
+
+10 kV
+
+Os circuitos do traje entram em potência máxima.
+
+O adversário começa a virar uma silhueta de energia branca e laranja, com descargas atravessando todo o corpo.
+
+CAEL fecha os punhos.
+
+Uma descarga final causa um enorme flash elétrico.
+
+Quando a luz desaparece, restam apenas partículas, fumaça e pequenos arcos elétricos.
+
+CAEL bate uma manopla na outra.
+
+CIRCUITO ENCERRADO.
+
+7. Pose de seleção
+
+CAEL começa com os braços cruzados.
+
+Ao ser selecionado:
+
+abre os olhos;
+uma pequena corrente percorre o corpo;
+estala os dedos;
+eletricidade passa entre as duas mãos;
+a cauda fica eriçada;
+ele assume posição de combate.
+8. Sprite / arte de batalha
+
+Postura bastante agressiva:
+
+corpo levemente inclinado para frente;
+pernas afastadas;
+mãos abertas;
+dedos carregados;
+cauda elevada;
+pequenos arcos elétricos aparecendo aleatoriamente.
+
+Ele deve parecer que está sempre prestes a avançar.
+
+9. Ícone de seleção
+
+Retrato quadrado mostrando:
+
+rosto do raposo;
+orelhas;
+olhos amarelos brilhantes;
+pelagem laranja;
+pequenos raios refletidos no rosto;
+fundo circular laranja.
+
+Seria um dos ícones mais reconhecíveis do roster.
+
+10. Atributos
+Atributo	CAEL
+❤️ Vida	82
+💪 Força	80
+⚡ Velocidade	94
+🛡️ Defesa	74
+📏 Alcance	82
+⚡ Técnica	91
+
+CAEL seria um personagem para jogadores agressivos: entra rápido, pressiona muito e sai antes da resposta.
+
+11. As 14 poses/animações
+1. Seleção
+
+cael_select
+
+Braços cruzados → olhos acendem → descarga → postura.
+
+2. Parado / respiração
+
+cael_idle
+
+Cauda movimenta lentamente e pequenos raios surgem entre os dedos.
+
+3. Caminhada
+
+cael_walk
+
+Passos rápidos, corpo inclinado para frente.
+
+Podemos ter:
+
+cael_walk_forward
+cael_walk_back
+
+4. Agachamento
+
+cael_crouch
+
+Postura baixa, uma mão tocando quase o chão e eletricidade concentrada nos dedos.
+
+5. Pulo
+
+cael_jump
+
+Salto rápido acompanhado por um pequeno impulso elétrico.
+
+6. Combo de Corrente
+
+cael_combo
+
+Idealmente em 3 PNGs:
+
+cael_combo_1 — Pulso
+cael_combo_2 — Arco
+cael_combo_3 — Descarga
+7. Choque Elétrico
+
+cael_electric_shock
+
+Uma mão avançada disparando um raio concentrado.
+
+8. Circuito Sobrecarga
+
+cael_overload
+
+Corpo inteiro iluminado, circuitos intensos e eletricidade envolvendo braços e pernas.
+
+9. Campo Eletromagnético
+
+cael_electromagnetic_field
+
+Braços abertos enquanto um campo circular de energia surge ao redor.
+
+10. Defesa
+
+cael_block
+
+Cruza as manoplas e cria uma pequena barreira eletromagnética.
+
+11. Recebendo dano
+
+cael_hit
+
+Corpo recua, pelo eriçado e faíscas escapando das manoplas.
+
+12. Queda / levantar
+
+cael_fall
+
+Cai → desliza → descarrega eletricidade no chão → impulsiona-se novamente para cima.
+
+13. Vitória
+
+cael_victory
+
+CAEL ergue uma mão.
+
+Um raio cai sobre ela e fica concentrado na palma.
+
+Ele fecha o punho e toda a energia desaparece.
+
+Depois cruza os braços.
+
+14. Fatality — Curto-Circuito
+
+cael_fatality
+
+Eu faria em 4 quadros separados:
+
+cael_fatality_1 — contato e início da descarga
+cael_fatality_2 — sobrecarga crescente
+cael_fatality_3 — adversário transformado em silhueta elétrica
+cael_fatality_4 — flash final e CAEL encerrando o circuito

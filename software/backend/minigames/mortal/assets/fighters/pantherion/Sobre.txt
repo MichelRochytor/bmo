@@ -1,0 +1,249 @@
+PANTHERION — O Predador de Classe
+
+Nome / sigla: PANTHERION
+Representação: personagem especial — “Luta por Estilo”
+Arquétipo: velocidade / precisão / contra-ataque
+1. Engenharia / curso
+
+Diferente de CAEC, CAETX etc., eu não vincularia Pantherion a uma engenharia específica. Ele funcionaria como personagem especial da universidade, justamente para não precisar encaixá-lo artificialmente em um curso.
+
+2. Visual próprio
+
+Um felino branco humanoide, elegante e extremamente ágil:
+
+pelagem branca/cinza-clara;
+olhos rosa ou âmbar;
+terno branco de combate;
+camisa rosa escura;
+gravata;
+luvas pretas;
+garras retráteis metálicas;
+cauda longa;
+pequenas proteções discretas sob o terno.
+
+O contraste seria justamente:
+
+aparência sofisticada + movimentos extremamente agressivos.
+
+3. Cor principal
+
+🩷 Rosa/magenta, acompanhado de:
+
+branco;
+preto;
+prata.
+
+4. Arma / elemento característico
+Garras retráteis
+
+Nada de espada ou arma grande.
+
+Pantherion luta principalmente com:
+
+garras;
+velocidade;
+cauda;
+chutes;
+contra-ataques.
+
+As garras podem emitir um pequeno brilho magenta quando usadas em habilidades.
+
+5. Ataque básico — Combo Felino
+
+Três golpes:
+
+1º — Garra rápida
+Corte horizontal veloz.
+
+2º — Chute giratório
+Usa a cauda para equilibrar o corpo.
+
+3º — Investida Felina
+Avança rapidamente e termina com duas garras cruzadas.
+
+Ele teria um dos combos básicos mais rápidos do elenco.
+
+6. Habilidades especiais
+
+Mantendo os nomes que já aparecem no card:
+
+🐾 Garra Afiada
+
+Pantherion avança quase instantaneamente e executa um corte de precisão.
+
+Ótima habilidade para surpreender o adversário.
+
+🎩 Elegância Letal
+
+Uma habilidade de contra-ataque.
+
+Pantherion assume uma pose relaxada. Se for atacado naquele instante, esquiva lateralmente e responde com uma sequência rápida de golpes.
+
+👑 Conforto Dominante
+
+Pantherion fica extremamente calmo e entra em seu “estado perfeito”.
+
+Temporariamente:
+
+aumenta velocidade;
+melhora esquiva;
+reduz recuperação após ataques;
+ganha maior chance de contra-atacar.
+
+Visualmente, o personagem praticamente arruma o paletó enquanto luta.
+
+7. Fatality — ÚLTIMO ATO
+
+Eu faria algo muito estiloso.
+
+Pantherion lentamente ajeita a gravata enquanto o adversário tenta atacá-lo.
+
+Ele desaparece em um rastro magenta.
+
+Vários cortes luminosos surgem ao redor do adversário, mas Pantherion já aparece do outro lado, de costas.
+
+Ele fecha as garras.
+
+O inimigo se desfaz visualmente em uma sequência de fragmentos/sombras estilizadas, enquanto Pantherion simplesmente limpa uma pequena marca da manga do terno.
+
+ÚLTIMO ATO
+----------------------------------------------------------------------------------------
+8. Pose de seleção
+
+Pantherion inicialmente está:
+
+de costas;
+ajeitando a manga do paletó.
+
+Quando selecionado:
+
+olha de lado;
+gira lentamente;
+estende as garras;
+dá um pequeno sorriso;
+assume posição de combate.
+
+É uma seleção mais elegante que agressiva.
+----------------------------------------------------------------------------------------
+9. Sprite / arte de batalha
+
+Postura bem diferente dos personagens pesados:
+
+corpo praticamente de lado;
+pernas próximas;
+joelhos levemente dobrados;
+uma mão aberta;
+outra com garras prontas;
+cauda constantemente se movimentando.
+
+Ele deve parecer relaxado mesmo durante a luta.
+----------------------------------------------------------------------------------------
+10. Ícone de seleção
+
+Retrato quadrado:
+
+cabeça do felino;
+olhos magenta;
+expressão confiante;
+gola do terno aparecendo;
+fundo circular rosa escuro.
+
+A silhueta das orelhas já ajuda muito na identificação.
+----------------------------------------------------------------------------------------
+11. Atributos
+Atributo	PANTHERION
+❤️ Vida	78
+💪 Força	74
+⚡ Velocidade	98
+🛡️ Defesa	68
+📏 Alcance	70
+🎯 Técnica	95
+
+Seria provavelmente o personagem mais rápido do elenco, mas não poderia simplesmente absorver dano como CAEC ou CAETX.
+----------------------------------------------------------------------------------------
+As 14 poses/animações
+1. Seleção
+
+pantherion_select
+
+De costas → ajusta a manga → vira → garras aparecem → postura.
+
+2. Parado / respiração
+
+pantherion_idle
+
+Movimento mínimo; cauda balança e ele ocasionalmente ajeita o paletó.
+
+3. Caminhada
+
+pantherion_walk
+
+Passos suaves e confiantes, quase como se estivesse desfilando.
+
+4. Agachamento
+
+pantherion_crouch
+
+Corpo muito baixo, semelhante a um felino preparando um bote.
+
+5. Pulo
+
+pantherion_jump
+
+Salto bastante alto e acrobático, com giro da cauda.
+
+6. Combo Felino
+
+pantherion_combo
+
+Garra → chute giratório → investida com garras cruzadas.
+
+7. Garra Afiada
+
+pantherion_sharp_claw
+
+Avanço extremamente rápido deixando um rastro rosa.
+
+8. Elegância Letal
+
+pantherion_deadly_elegance
+
+Esquiva lateral → desaparece do golpe → contra-ataca.
+
+9. Conforto Dominante
+
+pantherion_dominant_comfort
+
+Ajeita gravata/paletó e uma aura magenta discreta aparece.
+
+10. Defesa
+
+pantherion_block
+
+Em vez de uma defesa pesada, usa os braços e as garras para desviar o golpe.
+
+11. Recebendo dano
+
+pantherion_hit
+
+É lançado levemente para trás, cauda aberta e expressão irritada.
+
+12. Queda / levantar
+
+pantherion_fall
+
+Cai → gira no chão → usa uma mão e a cauda → volta rapidamente de pé.
+
+A recuperação dele deve ser uma das mais rápidas.
+
+13. Vitória
+
+pantherion_victory
+
+Recolhe as garras, ajeita o paletó e a gravata e olha para o adversário caído como se nada tivesse acontecido.
+
+14. Fatality — Último Ato
+
+pantherion_fatality
+
+Esquiva → sequência de cortes magenta → aparece atrás → recolhe as garras → Último Ato.

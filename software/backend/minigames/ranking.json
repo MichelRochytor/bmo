@@ -1,0 +1,92 @@
+{
+    "mortal": [
+        {
+            "nome": "BBB",
+            "pontuacao": 0
+        }
+    ],
+    "blocos": [
+        {
+            "nome": "AAA",
+            "pontuacao": 70
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 10
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 10
+        },
+        {
+            "nome": "ZAA",
+            "pontuacao": 10
+        }
+    ],
+    "velha": [
+        {
+            "nome": "EAA",
+            "pontuacao": 100
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 100
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 100
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 50
+        },
+        {
+            "nome": "GAV",
+            "pontuacao": 50
+        }
+    ],
+    "cobrinha": [
+        {
+            "nome": "ZAA",
+            "pontuacao": 8
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 4
+        },
+        {
+            "nome": "AYA",
+            "pontuacao": 2
+        },
+        {
+            "nome": "AAA",
+            "pontuacao": 2
+        },
+        {
+            "nome": "CAA",
+            "pontuacao": 2
+        }
+    ],
+    "space_invaders": [
+        {
+            "nome": "AAA",
+            "pontuacao": 2545
+        },
+        {
+            "nome": "ABE",
+            "pontuacao": 2505
+        },
+        {
+            "nome": "FRA",
+            "pontuacao": 1375
+        },
+        {
+            "nome": "LAI",
+            "pontuacao": 1330
+        },
+        {
+            "nome": "GBA",
+            "pontuacao": 1260
+        }
+    ]
+}

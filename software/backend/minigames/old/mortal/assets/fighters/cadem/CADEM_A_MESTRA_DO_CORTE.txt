@@ -1,0 +1,274 @@
+CADEM — A Mestra do Corte
+
+Nome / sigla: CADEM
+Curso: Design de Moda
+Arquétipo: velocidade / alcance / precisão / controle de espaço
+
+1. Visual próprio
+
+Uma unicórnio humanoide feminina, elegante e intimidadora:
+
+pelagem branca;
+crina longa multicolorida;
+olhos dourados ou magenta;
+chifre dourado;
+roupa de combate inspirada em alta-costura;
+predominância de roxo, vinho e preto;
+detalhes dourados;
+fitas, faixas e tecidos que se movimentam durante os golpes;
+luvas escuras;
+pequenas peças metálicas lembrando tesouras e instrumentos de costura.
+
+Ela deve parecer uma mistura de estilista de luxo + duelista.
+
+2. Cor principal
+
+🟣 Roxo / vinho
+
+Com:
+
+rosa-magenta;
+preto;
+dourado;
+pequenos detalhes multicoloridos da crina.
+3. Arma / elemento característico
+✂️ Tesouras-lâmina + tecidos controlados
+
+CADEM usa duas pequenas lâminas curvas inspiradas em tesouras de alfaiataria.
+
+Além disso, consegue manipular:
+
+fitas;
+linhas;
+tecidos;
+fios resistentes.
+
+As linhas podem funcionar como chicotes ou prender adversários.
+
+4. Ataque básico — Combo de Alfaiataria
+Etapa 1 — Corte Rápido
+
+Golpe diagonal com uma das lâminas.
+
+Etapa 2 — Linha Cruzada
+
+Duas linhas roxas passam em X pelo espaço.
+
+Etapa 3 — Corte Final
+
+CADEM gira o corpo e realiza um golpe amplo com tecido e lâmina ao mesmo tempo.
+
+Visualmente:
+
+corte → X de linhas → giro final.
+
+5. Três habilidades especiais
+
+Mantendo os nomes que já apareceram no card:
+
+✂️ Corte Preciso
+
+cadem_precise_cut
+
+CADEM executa um avanço extremamente rápido e realiza um corte único.
+
+Pouco efeito visual, mas muito dano se acertar perfeitamente.
+
+🧵 Costura Letal
+
+cadem_deadly_stitch
+
+Dispara várias linhas especiais contra o adversário.
+
+As linhas envolvem braços e pernas e o seguram brevemente.
+
+Excelente para iniciar combos.
+
+👗 Estilo Único
+
+cadem_unique_style
+
+CADEM transforma temporariamente parte de sua roupa de combate.
+
+O tecido cria uma nova configuração:
+
+aumenta velocidade;
+melhora alcance;
+deixa golpes especiais mais fortes.
+
+Visualmente, a roupa literalmente se redesenha ao redor do corpo.
+
+6. Fatality — CORTE FINAL
+
+CADEM lança várias linhas ao redor do adversário.
+
+As linhas formam algo parecido com um molde de costura holográfico.
+
+Ela analisa o alvo como uma peça de tecido.
+
+Várias marcações aparecem:
+
+CORTE
+
+DOBRA
+
+AJUSTE
+
+Ela fecha lentamente as duas tesouras.
+
+As linhas se contraem e a silhueta do adversário é dividida visualmente em fragmentos estilizados de tecido, sombras e partículas roxas, sem precisar focar em gore.
+
+CADEM pega uma pequena faixa que sobra.
+
+Ajeita no próprio traje.
+
+MODELO FINALIZADO.
+
+7. Pose de seleção
+
+CADEM começa olhando para um pedaço de tecido holográfico.
+
+Quando selecionada:
+
+mede o tecido;
+faz um corte rápido;
+as fitas giram ao redor dela;
+o chifre emite brilho dourado;
+as tesouras se abrem;
+entra elegantemente em posição de combate.
+8. Sprite / arte de batalha
+
+Postura bastante leve:
+
+uma perna à frente;
+tronco lateral;
+uma tesoura próxima ao rosto;
+outra mão estendida;
+fitas flutuando;
+crina e tecido sempre em movimento.
+
+Ela deve parecer elegante mesmo quando parada.
+
+9. Ícone para seleção
+
+Retrato quadrado:
+
+cabeça e ombros;
+chifre dourado central;
+crina colorida;
+olhos intensos;
+detalhes roxos do traje;
+fundo circular magenta/roxo.
+
+O chifre torna o retrato imediatamente reconhecível.
+
+10. Atributos
+Atributo	CADEM
+❤️ Vida	76
+💪 Força	73
+⚡ Velocidade	95
+🛡️ Defesa	70
+📏 Alcance	91
+🎨 Técnica	97
+
+CADEM seria uma personagem de alta habilidade, ótima para jogadores que gostam de movimentação e combos longos.
+
+11. As 14 poses/animações
+1. Seleção
+
+cadem_select
+
+Tecido holográfico → corte → fitas giram → postura.
+
+2. Parado / respiração
+
+cadem_idle
+
+Respiração leve, crina e tecidos se movimentando lentamente.
+
+3. Caminhada
+
+cadem_walk
+
+Passos elegantes e rápidos.
+
+Podemos ter:
+
+cadem_walk_forward
+cadem_walk_back
+
+4. Agachamento
+
+cadem_crouch
+
+Postura baixa, uma lâmina protegendo o rosto e outra preparada para atacar.
+
+5. Pulo
+
+cadem_jump
+
+Salto elegante com giro de fitas e tecido.
+
+6. Combo de Alfaiataria
+
+cadem_combo
+
+Em 3 PNGs:
+
+cadem_combo_1 — Corte Rápido
+cadem_combo_2 — Linha Cruzada
+cadem_combo_3 — Corte Final
+7. Corte Preciso
+
+cadem_precise_cut
+
+Avanço veloz com uma lâmina deixando um risco magenta no ar.
+
+8. Costura Letal
+
+cadem_deadly_stitch
+
+Braços abertos lançando várias linhas roxas para frente.
+
+9. Estilo Único
+
+cadem_unique_style
+
+Tecidos e fitas envolvendo o corpo enquanto o traje muda temporariamente.
+
+10. Defesa
+
+cadem_block
+
+Linhas formam uma espécie de malha protetora diante dela.
+
+11. Recebendo dano
+
+cadem_hit
+
+Corpo recua, tecido e crina se movimentam violentamente.
+
+12. Queda / levantar
+
+cadem_fall
+
+Cai de lado → apoia uma mão → usa uma fita para ganhar impulso → levanta rapidamente.
+
+13. Vitória
+
+cadem_victory
+
+Guarda as lâminas, observa o próprio traje e faz um pequeno ajuste na roupa.
+
+Depois cruza os braços ou posa como em um desfile.
+
+14. Fatality — Corte Final
+
+cadem_fatality
+
+Idealmente em 4 quadros:
+
+cadem_fatality_1 — linhas prendem o adversário
+cadem_fatality_2 — molde de corte aparece
+cadem_fatality_3 — fechamento das tesouras e fragmentação estilizada
+cadem_fatality_4 — CADEM recolhe uma faixa e finaliza a pose

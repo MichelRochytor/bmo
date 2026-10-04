@@ -1,0 +1,276 @@
+CAEQ — O Mestre do Processo
+
+Nome / sigla: CAEQ
+Curso: Engenharia Química
+Arquétipo: técnico / controle de campo / dano calculado
+
+1. Visual próprio
+
+Uma coruja humanoide imponente e inteligente, mantendo o personagem do card:
+
+plumagem preta/grafite;
+detalhes brancos na cabeça;
+olhos âmbar intensos;
+uniforme de combate branco, preto e azul-violeta;
+colete inspirado em jaleco/roupa industrial;
+tubulações finas, válvulas e pequenos reservatórios incorporados ao traje;
+manoplas técnicas nos braços;
+cinto com CAEQ;
+circuitos e diagramas de processo discretos na roupa.
+
+A silhueta principal seria cabeça de coruja + olhos intensos + ombros largos + uniforme técnico.
+
+2. Cor principal
+
+🔵 Azul-violeta, acompanhado de:
+
+preto;
+branco;
+pequenos detalhes ciano.
+
+Isso também o separa visualmente do verde do CALIQ.
+
+3. Arma / elemento característico
+⚗️ Manipulação de processos
+
+CAEQ utiliza um sistema de manoplas capaz de controlar:
+
+pressão;
+temperatura;
+fluxo;
+vapor;
+reações químicas;
+diferentes fases da matéria.
+
+Em vez de ficar arremessando frascos, ele parece estar operando uma planta industrial com as próprias mãos.
+
+4. Ataque básico — Combo de Processo
+
+Três etapas:
+
+1º — Impacto de Pressão
+Soco curto reforçado pneumaticamente.
+
+2º — Corte de Fluxo
+Golpe lateral com uma lâmina energética azul formada pela manopla.
+
+3º — Descarga Térmica
+Golpe de palma que libera uma explosão curta de vapor superaquecido e empurra o adversário.
+
+5. Habilidades especiais
+
+Eu manteria exatamente os nomes que já colocamos no card.
+
+🎯 Síntese Precisa
+
+CAEQ concentra dois fluxos de energia nas mãos e os combina em um único disparo.
+
+É um ataque:
+
+rápido;
+preciso;
+de médio alcance.
+
+Quanto mais perfeitamente acertado, maior o dano.
+
+⚙️ Reação Controlada
+
+Cria uma pequena zona de reação no campo.
+
+CAEQ controla a intensidade até o momento certo e então ativa uma explosão calculada.
+
+Funciona bem como armadilha e controle de espaço.
+
+❓ Elemento Surpresa
+
+A habilidade mais imprevisível.
+
+A manopla seleciona rapidamente uma condição de processo e produz um dos três efeitos:
+
+🔥 Térmico → mais dano.
+❄️ Resfriamento → reduz velocidade.
+💨 Pressão → lança o adversário para longe.
+
+Assim existe imprevisibilidade sem transformar CAEQ em outro CALIQ.
+
+6. Fatality — FALHA CATASTRÓFICA
+
+CAEQ prende o adversário dentro de um campo de processo azul transparente.
+
+Painéis holográficos aparecem ao redor:
+
+PRESSÃO ↑
+TEMPERATURA ↑
+FLUXO ↑
+
+CAEQ movimenta calmamente os dedos como se estivesse operando um painel.
+
+Os indicadores entram progressivamente na região crítica.
+
+Ele fecha uma válvula holográfica.
+
+O sistema entra em sobrepressão.
+
+O adversário é encoberto por vapor, energia e rachaduras luminosas até ocorrer uma ruptura de processo estilizada, transformando-o em fragmentos escuros e partículas azul-violeta.
+
+CAEQ observa o painel.
+
+A indicação muda para:
+
+PROCESSO FINALIZADO
+
+7. Pose de seleção
+
+Eu faria bastante personalidade aqui.
+
+CAEQ começa de costas analisando um pequeno fluxograma holográfico.
+
+Quando selecionado:
+
+gira uma válvula virtual;
+fecha o holograma;
+os olhos acendem em azul/âmbar;
+estala as manoplas;
+abre ligeiramente as asas/penas dos braços;
+entra em postura de combate.
+8. Sprite / arte de batalha
+
+Postura intermediária entre técnica e força:
+
+pernas afastadas;
+corpo levemente inclinado;
+uma mão aberta à frente;
+outra fechada próxima ao tórax;
+dedos preparados para manipular os controles;
+cabeça de coruja muito estável enquanto o corpo se movimenta.
+
+No idle, os olhos podem ocasionalmente acompanhar o adversário independentemente do movimento corporal.
+
+9. Ícone para seleção
+
+Retrato quadrado com:
+
+principalmente cabeça e ombros;
+olhos âmbar brilhantes;
+plumagem preta;
+região branca da cabeça bem marcada;
+pequenos reflexos azuis;
+círculo azul-violeta ao fundo.
+
+A coruja já gera uma silhueta extremamente reconhecível no menu.
+
+10. Atributos
+Atributo	CAEQ
+❤️ Vida	84
+💪 Força	78
+⚡ Velocidade	76
+🛡️ Defesa	82
+📏 Alcance	88
+⚗️ Técnica	98
+
+Seria um dos personagens com maior técnica do jogo, recompensando quem entende posicionamento e timing.
+
+11. As 14 poses / animações
+1. Seleção
+
+caeq_select
+
+Analisa fluxograma → fecha válvula → olhos acendem → guarda.
+
+2. Parado / respiração
+
+caeq_idle
+
+Respiração discreta, luzes das manoplas pulsando e pequenos movimentos da plumagem.
+
+3. Caminhada
+
+caeq_walk
+
+Caminhada firme e controlada, sem movimentos exagerados.
+
+Também podemos separar:
+
+caeq_walk_forward
+caeq_walk_back
+
+4. Agachamento
+
+caeq_crouch
+
+Corpo baixo, um braço protegendo o rosto e a outra mão preparada para ataque.
+
+5. Pulo
+
+caeq_jump
+
+Salto assistido por uma curta descarga de pressão/vapor nas pernas.
+
+6. Combo de Processo
+
+caeq_combo
+
+Soco pneumático → Corte de Fluxo → Descarga Térmica.
+
+Idealmente fazemos 3 PNGs separados.
+
+7. Síntese Precisa
+
+caeq_sintese_precisa
+
+Duas energias surgem nas mãos → convergem → disparo azul concentrado.
+
+8. Reação Controlada
+
+caeq_reacao_controlada
+
+Projeta a zona → regula a reação → detona.
+
+9. Elemento Surpresa
+
+caeq_elemento_surpresa
+
+CAEQ ativa a manopla e surge um efeito variável:
+
+🔥 térmico
+❄️ frio
+💨 pressão
+
+10. Defesa
+
+caeq_block
+
+Cruza as manoplas e cria uma pequena barreira de pressão azul.
+
+11. Recebendo dano
+
+caeq_hit
+
+Torso recua, algumas penas se soltam e as manoplas apresentam pequenas faíscas.
+
+12. Queda / levantar
+
+caeq_fall
+
+Cai pesadamente → apoia uma manopla no chão → libera pressão → impulsiona-se novamente para cima.
+
+13. Vitória
+
+caeq_victory
+
+CAEQ olha para um painel holográfico, fecha uma válvula e observa:
+
+100% — PROCESSO ESTÁVEL
+
+Depois cruza os braços.
+
+14. Fatality — Falha Catastrófica
+
+caeq_fatality
+
+Podemos dividir em pelo menos 4 imagens:
+
+1. Confinamento — oponente preso no campo.
+2. Sobrepressão — indicadores entram no vermelho.
+3. Ruptura — vapor e energia envolvem o corpo.
+4. Finalização — CAEQ fecha a válvula e observa o resultado.

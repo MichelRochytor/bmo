@@ -1,0 +1,23 @@
+# Python / Cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Variáveis de ambiente e senhas (Importante: nunca subir a chave da Groq)
+.env
+software/.env
+*.env
+
+# Ambientes virtuais
+.venv/
+venv/
+env/
+ENV/
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Configurações de editores (VS Code, etc)
+.vscode/
+.idea/
